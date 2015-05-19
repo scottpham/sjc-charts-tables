@@ -17,3 +17,7 @@
 .c3-axis-x line {
     stroke: gray;
 }
+
+.c3-ygrids .c3-ygrid:first-child {
+    opacity: 0;
+}
