@@ -100,7 +100,6 @@ $(window).ready(function() {
         },
 
         size: {
-            width: 625,
             height: 450
         }
 
@@ -159,7 +158,6 @@ $(window).ready(function() {
         },
 
         size: {
-            width: 625,
             height: 450
         }
 
